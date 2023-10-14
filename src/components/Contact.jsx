@@ -5,7 +5,7 @@ import { AiFillGithub } from 'react-icons/ai'
 const Contact = () => {
     const [isContact, setisContact] = useState(false)
     return (
-        <div className='h-screen text-black grid place-content-center text-center'>
+        <div className='h-screen text-black grid place-content-center text-center' id='contact'>
             <button onClick={() => { setisContact(!isContact) }} className='text-xl text-white my-3'>Contact <span className='text-base'> {!isContact ? "+" : "-"}</span></button>
             {
                 isContact && <div className='bg-white px-10 py-5 text-start rounded-md'>
