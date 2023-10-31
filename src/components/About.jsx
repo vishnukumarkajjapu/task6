@@ -61,8 +61,8 @@ const About = () => {
                                         </div>
                                     </div>
                                     <div className="flex gap-1">
-                                        <a href="#" className="text-xs bg-red-400 rounded px-2 py-1">Repository</a>
-                                        <a href="#" className="text-xs bg-red-400 rounded px-2 py-1">Not yet Deployed</a>
+                                            <a href="https://github.com/ChanduRoyalA/todo1-nextjs" className="text-xs bg-green-400 rounded px-2 py-1">Repository</a>
+                                            <a href="https://todo1-nextjs.vercel.app/" className="text-xs bg-green-400 rounded px-2 py-1">Deployed</a>
                                     </div>
                                 </div>
 
