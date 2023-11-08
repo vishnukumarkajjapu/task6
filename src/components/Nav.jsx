@@ -1,7 +1,7 @@
 const Nav = () => {
     return (
         <nav className=" h-fit w-full text-white px-6 py-4 flex justify-between items-baseline">
-            <p>Chandu Royal A</p>
+            <p>vishnu kumar k</p>
             <>
                 <div className="hidden md:flex gap-8">
                     <a href="#home">Home</a>
