@@ -13,8 +13,8 @@ const IntroPage = () => {
                 </div>
                 <div className='flex w-full justify-between items-center px-4 group'>
                     <a href='#'><BiLogoTwitter style={{ fontSize: '18px' }} /></a>
-                    <a href='><BiLogoLinkedin style={{ fontSize: '18px' }} /></a>
-                    <a href='><AiFillGithub style={{ fontSize: '18px' }} /></a>
+                    <a href='https://www.linkedin.com/in/achanduroyal/'><BiLogoLinkedin style={{ fontSize: '18px' }} /></a>
+                    <a href='https://github.com/vishnukumarkajjapu'><AiFillGithub style={{ fontSize: '18px' }} /></a>
                 </div>
             </div>
             <div className='bg-red-100 rounded-full overflow-hidden h-60 w-60 flex justify-center items-center'>
