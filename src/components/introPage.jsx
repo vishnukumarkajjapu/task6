@@ -18,7 +18,7 @@ const IntroPage = () => {
                 </div>
             </div>
             <div className='bg-red-100 rounded-full overflow-hidden h-60 w-60 flex justify-center items-center'>
-                <img src={myProfile} />
+                <img src="" />
             </div>
         </section>
     )
