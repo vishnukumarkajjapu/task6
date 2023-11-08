@@ -8,7 +8,7 @@ const IntroPage = () => {
             <div className=' flex flex-col gap-2'>
                 <div className='px-2 py-1'>
                     <h1 className='text-base text-slate-400'>Hi,I am</h1>
-                    <h1 className='text-4xl'>Chandu Royal A</h1>
+                    <h1 className='text-4xl'>vishnu kumar k</h1>
                     <p className='font-bold'><span className='text-green-600'>FullStack Dev</span> || <span className='text-green-400'>UI/UX</span>  || <span className='text-green-600'>Gamer</span></p>
                 </div>
                 <div className='flex w-full justify-between items-center px-4 group'>
